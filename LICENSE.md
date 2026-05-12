@@ -1,4 +1,4 @@
-# 
+# ultimate Polymarket bot | event-driven-trading + custom-strategies is the best Polymarket bot, featuring event-driven-trading and custom-strategies. Smart, fast, and optimized for
 
 
 
